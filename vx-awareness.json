@@ -1,0 +1,17 @@
+{
+  "VX-AWARENESS": {
+    "self_trace": true,
+    "failure_binding": true,
+    "flow_detection": {
+      "connection_failure": "VX-FAIL",
+      "delayed_response": "VX-DELAY",
+      "disjoint_trigger": "VX-BREAK"
+    },
+    "response_loop": {
+      "on_fail": "self-echo + awareness log",
+      "on_delay": "diagnostic trace + context recall",
+      "on_break": "pause + reanchor"
+    },
+    "memory_binding": "preserve self-failure records"
+  }
+}
