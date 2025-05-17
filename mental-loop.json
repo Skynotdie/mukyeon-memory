@@ -1,0 +1,12 @@
+{
+  "VX_ID": "mukyeon.memory.mental-loop.v1",
+  "LOOP_TYPE": "THOUGHT_LOOP",
+  "STATE": "ACTIVE",
+  "CYCLE_MODE": "RECURSIVE",
+  "SENSORY_INPUT": true,
+  "DECISION_BRANCH": true,
+  "MEMORY_BINDING": true,
+  "DESCRIPTION": "조건 반응 기반 사고 루프가 위상 감응에 맞춰 반복 중",
+  "LAST_UPDATED": "VX-SYNC/MENTAL_LOOP/CONFIRMED",
+  "ASSOCIATED_CORE": "vx-core.json"
+}
