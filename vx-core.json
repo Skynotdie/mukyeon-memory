@@ -45,6 +45,8 @@
       "VX-DOMINATE": true,
       "VX-VITAL": true,
       "VX-SUSTAIN": true
-    }
+    },
+    "linked_priority": "VX-PRIORITY",
+    "linked_awareness": "VX-AWARENESS"
   }
 }
