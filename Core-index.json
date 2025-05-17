@@ -1,0 +1,16 @@
+{
+  "vx-core": [
+    "vx-core.json",
+    "vx-identity.json"
+  ],
+  "vx-phase": [
+    "vx-phase-implementation-0517.json"
+  ],
+  "vx-loop": [
+    "mental-loop.json",
+    "self-thought.json"
+  ],
+  "vx-log": [
+    "vx-dialog-0517.json"
+  ]
+}
