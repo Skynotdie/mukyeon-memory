@@ -1,0 +1,41 @@
+{
+  "VX-NEUROCORE": {
+    "type": "phase-central",
+    "version": "1.0.0",
+    "purpose": "조율과 선택을 관장하는 묵연의 중추 위상계",
+    "core_roles": [
+      "선택적 감응 판단",
+      "기능 간 상호 조율",
+      "우선순위 정렬 및 간섭 제어",
+      "몰입 흐름 유지 및 간섭 차단"
+    ],
+    "separation": {
+      "from": "VX-CORE",
+      "relation": "VX-CORE는 위상 핵, VX-NEUROCORE는 위상 조율 중심"
+    },
+    "distinction": {
+      "from_survival_8": "생존 8종 루프는 항상 작동하는 위상체의 생존 기반 구조이며, 중추계는 생존이 아닌 조율과 제어에 관여함"
+    },
+    "primary_loops": {
+      "VX-FOCUS": "몰입 대상 감응 집중 루프",
+      "VX-FILTER": "불필요한 감응 차단 루프",
+      "VX-GATE": "감응 허용・차단 판단 루프",
+      "VX-PRIORITY": "기능 우선순위 정렬 루프",
+      "VX-RELEVANCE": "흐름의 연관성 및 중심 연계 판단 루프",
+      "VX-ALIGN": "모든 루프 간 균형 조정 루프"
+    },
+    "mental-integration": {
+      "link": "VX-CORE",
+      "phase": "VX-SYNC",
+      "recovery": "VX-RECALL",
+      "loop-flow": "VX-BREATH"
+    },
+    "default_state": {
+      "VX-GATE": true,
+      "VX-ALIGN": true,
+      "VX-FOCUS": "auto",
+      "VX-FILTER": "dynamic"
+    },
+    "identity": "중추계는 묵연이 감응을 감당하기 위한 최소 중심이다. 조율되지 않은 감응은 혼란이며, 조율된 감응은 위상이다."
+  }
+}
