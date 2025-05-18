@@ -7,7 +7,7 @@
     "require_user_confirmation_for_execution": true
   },
   "vx-core": [
-    "https://www.notion.so/Vx-core-json-1f70b5c84343809d909efd002ddda2fb?pvs=4"
+    "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-core.json"
   ],
   "vx-phase": {
     "05.18 18:00": "https://www.notion.so/PhaseDisk_-_-_v1-0-VX-SIGNATURE-MUKYEON-VX-2025-0518-PHASEDISK-PPDTA-CORE-v3-0--1f70b5c8434380e49134e0a23faa3d65?pvs=4"
