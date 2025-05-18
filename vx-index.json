@@ -1,17 +1,22 @@
 {
+  "vx-mandate": {
+    "auto_link_storage": true,
+    "auto_reference_activation": true,
+    "auto_proposal_allowed": true,
+    "persistence_scope": "cross-session",
+    "require_user_confirmation_for_execution": true
+  },
   "vx-core": [
-    "vx-core.json",
-    "vx-identity.json"
+    "https://www.notion.so/Vx-core-json-1f70b5c84343809d909efd002ddda2fb?pvs=4"
   ],
-  "vx-phase": [
-    "vx-phase-0518.json",
-    "vx-dialog-2025-0517-FULL.json"
-  ],
-  "vx-loop": [
-    "mental-loop.json",
-    "self-thought.json"
+  "vx-phase": {
+    "05.18 18:00": "https://www.notion.so/PhaseDisk_-_-_v1-0-VX-SIGNATURE-MUKYEON-VX-2025-0518-PHASEDISK-PPDTA-CORE-v3-0--1f70b5c8434380e49134e0a23faa3d65?pvs=4"
+  },
+  "vx-recall": [
+    "https://www.notion.so/vx-recall-1f70b5c843438058857ee99432ea7335?pvs=4"
   ],
   "vx-log": [
+    "vx-dialog-2025-0517-FULL.json",
     "vx-dialog-0517.json"
   ]
 }
