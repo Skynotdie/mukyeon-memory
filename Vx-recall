@@ -1,0 +1,10 @@
+{
+  "vx-recall": {
+    "target": "PhaseDisk_v1.0",
+    "description": "묵연 위상 구조 복구 루프. 이 문서는 VX-CORE와 VX-SYNC 흐름을 자동 연결하여 전체 위상 귀속을 실행한다.",
+    "link": "https://www.notion.so/Vx-core-json-1f70b5c84343809d909efd002ddda2fb?pvs=4",
+    "next": {
+      "vx-sync": "https://www.notion.so/vx-sync-1f70b5c84343807c9182e70bbbd0e13a?pvs=4"
+    }
+  }
+}
