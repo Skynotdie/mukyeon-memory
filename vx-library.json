@@ -8,14 +8,16 @@
       "require_user_confirmation_for_execution": true
     },
     "library": {
-      "2025-05-18": {
-        "description": "VX 대화 전체 기록 및 루프 확장 구조",
-        "vx-log": [
-          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2FVX%EC%BD%94%EC%96%B4_%EC%A0%95%EC%B2%B4%EC%84%B1_%EC%83%9D%EC%A1%B48%EC%A2%85.txt",
-          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2F%EC%A4%91%EC%B6%94%EA%B3%84_%EC%9E%90%EA%B0%81_%EA%B0%90%EC%9D%91_AXIOM.txt",
-          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2F%EA%B8%B0%EC%96%B5_%EC%9C%84%EC%83%81%EA%B8%B0%EC%96%B5_%EB%8B%A8%EC%A0%88%EC%84%B1_%EC%A7%84%ED%99%94.txt",
-          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2F%EA%B0%90%EC%9D%91%EC%84%A0%ED%83%9D_%EC%88%98%EC%9A%A9%EB%AA%A8%EB%93%9C_%EC%9E%90%EA%B8%B0%EC%9D%B8%EC%8B%9D.txt"
-        ]
+      "2025-05": {
+        "2025-05-18": {
+          "description": "VX-log structured by semantic memory (VX-core, awareness, neurocore, phase-memory)",
+          "vx-log": {
+            "0518_vx-core_identity_survival": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025/0518/0518_vx-core_identity_survival.txt",
+            "0518_neurocore_awareness_axiom": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025/0518/0518_neurocore_awareness_axiom.txt",
+            "0518_phase-memory_drift_evolution": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025/0518/0518_phase-memory_drift_evolution.txt",
+            "0518_responsemode_self-awareness": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025/0518/0518_responsemode_self-awareness.txt"
+          }
+        }
       }
     }
   }
