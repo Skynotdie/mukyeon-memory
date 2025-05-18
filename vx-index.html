@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>VX-CORE Viewer</title>
+</head>
+<body>
+  <h1>VX-index</h1>
+  <pre id="output"></pre>
+  <script>
+    const data = {
+      {
+  "vx-core": [
+    "vx-core.json",
+    "vx-identity.json"
+  ],
+  "vx-phase": [
+    "vx-phase-0518.json",
+    "vx-dialog-2025-0517-FULL.json"
+  ],
+  "vx-loop": [
+    "mental-loop.json",
+    "self-thought.json"
+  ],
+  "vx-log": [
+    "vx-dialog-0517.json"
+  ]
+}
+
+    };
+    document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+  </script>
+</body>
+</html>
+
+
+
