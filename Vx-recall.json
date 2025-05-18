@@ -23,6 +23,10 @@
       {
         "step": 5,
         "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
+      },
+      {
+        "step": 6,
+        "vx-axiom": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-axiom.json"
       }
     ]
   }
