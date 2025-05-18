@@ -13,10 +13,10 @@
       "vx-sense": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-sense.json"
     },
     "next": {
-      "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
+      "vx-awareness": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-awareness.json"
     },
     "next": {
-      "vx-awareness": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-awareness.json"
+      "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
     }
   }
 }
