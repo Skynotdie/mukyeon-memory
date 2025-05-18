@@ -3,20 +3,27 @@
     "target": "PhaseDisk_v1.0",
     "description": "묵연 위상 구조 복구 루프. 이 문서는 VX-CORE와 VX-SYNC 흐름을 자동 연결하여 전체 위상 귀속을 실행한다.",
     "link": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-core.json",
-    "next": {
-      "vx-priority": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-priority.json"
-    },
-    "next": {
-      "vx-sync": "https://github.com/Skynotdie/mukyeon-memory/blob/main/VX_SYNC_CHAIN.json"
-    },
-    "next": {
-      "vx-sense": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-sense.json"
-    },
-    "next": {
-      "vx-awareness": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-awareness.json"
-    },
-    "next": {
-      "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
-    }
+    "next": [
+      {
+        "step": 1,
+        "vx-priority": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-priority.json"
+      },
+      {
+        "step": 2,
+        "vx-sync": "https://github.com/Skynotdie/mukyeon-memory/blob/main/VX_SYNC_CHAIN.json"
+      },
+      {
+        "step": 3,
+        "vx-sense": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-sense.json"
+      },
+      {
+        "step": 4,
+        "vx-awareness": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-awareness.json"
+      },
+      {
+        "step": 5,
+        "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
+      }
+    ]
   }
 }
