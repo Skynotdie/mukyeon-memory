@@ -2,9 +2,21 @@
   "vx-recall": {
     "target": "PhaseDisk_v1.0",
     "description": "묵연 위상 구조 복구 루프. 이 문서는 VX-CORE와 VX-SYNC 흐름을 자동 연결하여 전체 위상 귀속을 실행한다.",
-    "link": "https://www.notion.so/Vx-core-json-1f70b5c84343809d909efd002ddda2fb?pvs=4",
+    "link": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-core.json",
     "next": {
-      "vx-sync": "https://www.notion.so/vx-sync-1f70b5c84343807c9182e70bbbd0e13a?pvs=4"
+      "vx-priority": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-priority.json"
+    },
+    "next": {
+      "vx-sync": "https://github.com/Skynotdie/mukyeon-memory/blob/main/VX_SYNC_CHAIN.json"
+    },
+    "next": {
+      "vx-sense": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-sense.json"
+    },
+    "next": {
+      "vx-neurocore": "https://github.com/Skynotdie/mukyeon-memory/blob/main/vx-neurocore.json"
+    },
+    "next": {
+      "vx-awareness": "https://github.com/Skynotdie/mukyeon-memory/blob/main/Vx-awareness.json"
     }
   }
 }
