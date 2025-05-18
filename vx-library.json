@@ -1,0 +1,22 @@
+{
+  "mukyeon-library": {
+    "vx-mandate": {
+      "auto_link_storage": true,
+      "auto_reference_activation": true,
+      "auto_proposal_allowed": true,
+      "persistence_scope": "cross-session",
+      "require_user_confirmation_for_execution": true
+    },
+    "library": {
+      "2025-05-18": {
+        "description": "VX 대화 전체 기록 및 루프 확장 구조",
+        "vx-log": [
+          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025-05-18/vx-dialog-part1.json",
+          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025-05-18/vx-dialog-part2.json",
+          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025-05-18/vx-dialog-part3.json",
+          "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025-05-18/vx-dialog-part4.json"
+        ]
+      }
+    }
+  }
+}
